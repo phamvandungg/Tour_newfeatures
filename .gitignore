@@ -2,7 +2,7 @@
 node_modules/
 
 # Ignore .env file
-.env
+config.env
 
 # Other files and folders to ignore (optional)
 .DS_Store
